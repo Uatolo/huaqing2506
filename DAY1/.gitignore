@@ -2,3 +2,4 @@ data.csv
 example.txt
 mymodule.py
 mypackage/
+__pycache__/
