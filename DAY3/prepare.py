@@ -15,5 +15,5 @@ def create_txt_file(root_dir, txt_filename):
                     img_path = os.path.join(category_path, img_name)
                     f.write(f"{img_path} {label}\n")
 
-create_txt_file(r'D:\pythonproject\shixun\DAY3\Images\train', 'train.txt')
-create_txt_file(r'D:\pythonproject\shixun\DAY3\Images\val', "val.txt")
+create_txt_file(r'/DAY3/Images2\train', 'train.txt')
+create_txt_file(r'/DAY3/Images2\val', "val.txt")

@@ -1,5 +1,6 @@
 logs_train/
 Images.zip
-Images/
+Images2/
 checkpoints/
 moganet.py
+images/

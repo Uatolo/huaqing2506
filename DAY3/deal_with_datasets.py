@@ -7,9 +7,9 @@ import random
 random.seed(42)
 
 # 数据集路径
-dataset_dir = r'D:\pythonproject\shixun\DAY3\Images'  # 替换为你的数据集路径
-train_dir = r'D:\pythonproject\shixun\DAY3\Images\train'  # 训练集输出路径
-val_dir = r'D:\pythonproject\shixun\DAY3\Images\val'  # 验证集输出路径
+dataset_dir = r'/DAY3/Images2'  # 替换为你的数据集路径
+train_dir = r'/DAY3/images\train'  # 训练集输出路径
+val_dir = r'/DAY3/images\val'  # 验证集输出路径
 
 # 划分比例
 train_ratio = 0.7
